@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_hkd_kff_5x">
+    <title>Blueberry Oatmeal Waffles</title>
+    <shortdesc>Makes 6 eight-inch waffles. You will need a mixing bowl, whisk, measuring cups and a
+        waffle iron.</shortdesc>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Ingredients you will need</cmd>
+                <substeps>
+                    <substep>
+                        <cmd>1 cup white whole wheat flour</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>1 tablespoon baking powder</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>½ teaspoon salf</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>¼ teaspoon ground allspice</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>1 cup cooking oats</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>1/3 cup unsweetened applesauce</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>1 ½ cups unsweetened almond milk</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>3 tablespoons pure maple syrup</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>2 tablespoons canola oil</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>1 teaspoon pure vanilla extract</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>1 ½ cups frozen blueberries</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Preparing the waffle batter</cmd>
+                <substeps>
+                    <substep>
+                        <cmd>Stir flour, baking powder, salt and allspice into a mixing bowl.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Mix in the oats.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Make a well in the center.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Add applesauce, milk, maple syrup, oil and vanilla.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Stir until just combined.</cmd>
+                        <stepresult>You have made your waffle batter. Let the batter rest for 5
+                            minutes or so, it will thicken a bit.</stepresult>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Cooking your waffles</cmd>
+                <substeps>
+                    <substep>
+                        <cmd>Add the blueberries to your batter.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Spray or brush your waffle iron with oil (repeat this in between each
+                            waffle).</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Cook in waffle iron for 5-8 minutes, depending on the manufacturer
+                            directions.</cmd>
+                        <stepresult>Serve with butter and/or syrup and enjoy your vegan blueberry
+                            oatmeal waffles!<image href="../Blueberry-Oatmeal-Waffles-16.jpg"
+                                scale="50" id="image_rfv_mhf_5x"/></stepresult>
+                    </substep>
+                </substeps>
+            </step>
+        </steps>
+    </taskbody>
+</task>

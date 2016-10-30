@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title>Breakfast Guide for Armando</title>
+ <topicref href="c-sweet-vegan-recipes.dita"/>
+ <topicref href="t-vegan-waffles.dita"/>
+ <topicref href="t-vegan-shake.dita"/>
+ <topicref href="c-savory-vegan-recipes.dita"/>
+ <topicref href="t-vegan-sandwich.dita"/>
+ <topicref href="t-vegan-toast.dita"/>
+</map>

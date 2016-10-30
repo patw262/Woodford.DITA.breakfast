@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_yvq_zcf_5x">
+    <title>Sweet Vegan Breakfast Recipes</title>
+    <shortdesc>The following two recipes are sweet and tasty, but still vegan so Armando can enjoy
+        them.</shortdesc>
+    <taskbody>
+        <context>Below are the names, descriptions and a photo to identify each recipe.</context>
+        <steps>
+            <step>
+                <cmd>Blueberry Oatmeal Waffles</cmd>
+                <info>Delicious vegan blueberry waffles made with whole wheat flour, oatmeal and
+                        applesauce.<fig id="fig_c14_xhf_5x">
+                        <title>Blueberry Oatmeal Waffles</title>
+                        <image href="../waffles.jpg" scale="50" id="image_d14_xhf_5x"/>
+                    </fig></info>
+            </step>
+            <step>
+                <cmd>Chocolate Peanut Butter Banana Shake</cmd>
+                <info>A delicious and filling vegan breakfast shake you can take on the go!<fig
+                        id="fig_dvj_b3f_5x">
+                        <title>Chocolate Peanut Butter Banana Shake</title>
+                        <image href="../shake.jpg" scale="50" id="image_evj_b3f_5x"/>
+                    </fig></info>
+            </step>
+        </steps>
+    </taskbody>
+</task>
