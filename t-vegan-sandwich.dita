@@ -2,14 +2,89 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_nvz_p3f_5x">
     <title>Vegan Breakfast Sandwich</title>
-    <shortdesc/>
+    <shortdesc>This quick &amp; easy recipe requires a stove, pan, spatula, measuring spoons, a
+        knife and a toaster.</shortdesc>
     <taskbody>
-        <context>
-            <p></p>
-        </context>
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd>Ingredients you will need</cmd>
+                <substeps>
+                    <substep>
+                        <cmd>1 English muffin</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>2 tablespoons soy vegan sausage</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>3 thin slices of bell pepper</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>1 tablespoon vegan shredded cheese</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>1 teaspoon hot sauce</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>½ teaspoon vegan butter</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>1 tsp berry jam</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>pinch of black pepper</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>extra virgin olive oil</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Instructions</cmd>
+                <substeps>
+                    <substep>
+                        <cmd>Hand-press a patty out of the 2 tablespoons of vegan sausage.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Rub your patty in a light amount of extra virgin olive oil and place on
+                            the cooking pan.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>After about a minute or two on each side, remove your patty from the
+                            pan and cover so it stays warm.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Add a small amount of extra virgin olive oil to the pan and cook your
+                            sliced bell peppers on low heat.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>While the peppers are cooking, toast your English muffin.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>After the muffin is toasted, spread butter on each side.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd> Once your peppers are ready, grab your patty and put it all
+                            together.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Place sandwich on the pan open-faced and sprinkle cheese on top.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Close sandwich and cook on each side for one or two minutes over low
+                            heat, pressing down lightly with your spatula.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Add hot sauce and pepper to taste, and enjoy your delicious vegan
+                            breakfast sandwich!</cmd>
+                    </substep>
+                </substeps>
+                <info>
+                    <fig id="fig_qnt_g4l_5x">
+                        <title>Yummy Vegan Breakfast Sandwich</title>
+                        <image href="../pics/breakfast-sandwich-vegan-10.jpg" scale="50"
+                            id="image_rnt_g4l_5x"/>
+                    </fig>
+                </info>
             </step>
         </steps>
     </taskbody>

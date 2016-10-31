@@ -2,14 +2,27 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_r1b_p3f_5x">
     <title>Savory Vegan Breakfast Recipes</title>
-    <shortdesc/>
+    <shortdesc>If you love a delicious savory dish for breakfast, look no further than these two
+        recipes!</shortdesc>
     <taskbody>
-        <context>
-            <p></p>
-        </context>
+        <context>Below are the names, descriptions, and a photo for each recipe.</context>
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd>Vegan Breakfast Sandwich</cmd>
+                <info>This super easy vegan breakfast sandwich can be whipped up in just 15 minutes!
+                    Perfect for when you're in a hurry and super flavorful.<fig id="fig_gys_dll_5x">
+                        <title>Vegan Breakfast Sandwich</title>
+                        <image href="../pics/breakfast-sandwich-vegan-12.jpg" scale="50"
+                            id="image_hys_dll_5x"/>
+                    </fig></info>
+            </step>
+            <step>
+                <cmd>Toast with Refried Beans and Avocado</cmd>
+                <info>Tasty, filling, but not overly heavy. This quick vegan dish is ideal for those
+                    who want something other than bacon &amp; eggs.<fig id="fig_akp_jll_5x">
+                        <title>Refried Bean &amp; Avocado Toast</title>
+                        <image href="../pics/toast.jpg" scale="50" id="image_bkp_jll_5x"/>
+                    </fig></info>
             </step>
         </steps>
     </taskbody>

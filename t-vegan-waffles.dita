@@ -80,8 +80,11 @@
                         <cmd>Cook in waffle iron for 5-8 minutes, depending on the manufacturer
                             directions.</cmd>
                         <stepresult>Serve with butter and/or syrup and enjoy your vegan blueberry
-                            oatmeal waffles!<image href="../Blueberry-Oatmeal-Waffles-16.jpg"
-                                scale="50" id="image_rfv_mhf_5x"/></stepresult>
+                            oatmeal waffles!<fig id="fig_www_hkl_5x">
+                                <title>Yummy Vegan Waffles</title>
+                                <image href="../pics/Blueberry-Oatmeal-Waffles-16.jpg" scale="50"
+                                    id="image_xww_hkl_5x"/>
+                            </fig></stepresult>
                     </substep>
                 </substeps>
             </step>

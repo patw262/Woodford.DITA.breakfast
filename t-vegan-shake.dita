@@ -3,7 +3,7 @@
 <task id="task_cf5_n3f_5x">
     <title>Chocolate Peanut Butter Banana Shake</title>
     <shortdesc>A perfect healthy vegan breakfast that you can take on the go! You will need a
-        blender to mix together all of the ingredients.</shortdesc>
+        blender to mix together all of the ingredients and measuring cups/spoons.</shortdesc>
     <taskbody>
         <steps>
             <step>
@@ -48,11 +48,11 @@
                         <cmd>Taste and adjust flavors, adding more bananas or dates for sweetness,
                             cocoa powder for chocolate, and peanut butter for saltiness.</cmd>
                         <stepresult>Enjoy your tasty Chocolate Peanut Butter Banana Shake!<fig
-                                id="fig_bcy_svg_5x">
+                                id="fig_w3v_kkl_5x">
                                 <title>Yummy Vegan Shake</title>
                                 <image
-                                    href="../HEALTHY-Thick-Creamy-Banana-Peanut-Butter-Chocolate-Shake-Just-5-ingredients-and-SO-delicious-vegan-glutenfree-minimalistbaker.jpg"
-                                    scale="25" id="image_ccy_svg_5x"/>
+                                    href="../pics/HEALTHY-Thick-Creamy-Banana-Peanut-Butter-Chocolate-Shake-Just-5-ingredients-and-SO-delicious-vegan-glutenfree-minimalistbaker.jpg"
+                                    scale="25" id="image_x3v_kkl_5x"/>
                             </fig></stepresult>
                     </substep>
                 </substeps>

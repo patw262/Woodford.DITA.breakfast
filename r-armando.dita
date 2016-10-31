@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_bxs_zrl_5x">
+    <title>References</title>
+    <shortdesc>Sources used in Armando's Breakfast Guide.</shortdesc>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Blueberry Oatmeal Waffles</cmd>
+                <substeps>
+                    <substep>
+                        <cmd><xref
+                                href="http://www.isachandra.com/2012/10/blueberry-oatmeal-waffles/"
+                                format="html"/></cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Chocolate Peanut Butter Banana Shake</cmd>
+                <substeps>
+                    <substep>
+                        <cmd><xref
+                                href="http://minimalistbaker.com/chocolate-peanut-butter-banana-shake/"
+                                format="html"/></cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Vegan Breakfast Sandwich</cmd>
+                <substeps>
+                    <substep>
+                        <cmd><xref
+                                href="http://kblog.lunchboxbunch.com/2010/06/breakfast-sandwich-vegan-recipe-in-15.html"
+                                format="html"/></cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Refried Bean &amp; Avocado Toast</cmd>
+                <substeps>
+                    <substep>
+                        <cmd><xref
+                                href="http://www.seriouseats.com/recipes/2013/03/breakfast-toast-refried-beans-avocado-recipe.html"
+                                format="html"/></cmd>
+                    </substep>
+                </substeps>
+            </step>
+        </steps>
+    </taskbody>
+</task>

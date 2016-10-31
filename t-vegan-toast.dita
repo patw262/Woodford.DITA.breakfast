@@ -2,14 +2,56 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_jff_r3f_5x">
     <title>Toast with Refried Beans and Avocado</title>
-    <shortdesc/>
+    <shortdesc>This recipe takes 5 minutes and is sure to satisfy a hungry vegan looking for
+        breakfast! You'll need a toaster, measuring cups and a knife.</shortdesc>
     <taskbody>
-        <context>
-            <p></p>
-        </context>
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd>Ingredients you will need</cmd>
+                <substeps>
+                    <substep>
+                        <cmd>2 slices vegan sandwich bread</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>1 cup vegan refried beans</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>1 avocado, thinly sliced</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>A few slivers of white onion</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Coarse sea salt</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Directions</cmd>
+                <substeps>
+                    <substep>
+                        <cmd>Toast vegan bread.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Top with refried beans.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Top with avocado.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Mash with a fork, if desired.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Add slivered onions.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Sprinkle with salt.</cmd>
+                    </substep>
+                </substeps>
+                <stepresult>Serve and enjoy your delicious vegan toast!<fig id="fig_g3s_x4l_5x">
+                        <title>Yummy Vegan Bean &amp; Avocado Toast</title>
+                        <image href="../pics/toast.jpg" scale="50" id="image_h3s_x4l_5x"/>
+                    </fig></stepresult>
             </step>
         </steps>
     </taskbody>
