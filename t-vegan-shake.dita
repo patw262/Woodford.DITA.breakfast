@@ -2,14 +2,60 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_cf5_n3f_5x">
     <title>Chocolate Peanut Butter Banana Shake</title>
-    <shortdesc/>
+    <shortdesc>A perfect healthy vegan breakfast that you can take on the go! You will need a
+        blender to mix together all of the ingredients.</shortdesc>
     <taskbody>
-        <context>
-            <p></p>
-        </context>
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd>Ingredients you will need</cmd>
+                <substeps>
+                    <substep>
+                        <cmd>1 banana</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>2 tablespoons peanut butter</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>1-2 dates</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>1 tablespoon unsweetened cocoa powder</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>1-1 ½ cups unsweetened almond milk</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>(Optional) ½ cup ice</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Preparing the shake</cmd>
+                <substeps id="substeps_jnp_l5g_5x">
+                    <substep>
+                        <cmd>Add all ingredients except almond milk to the blender.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Blend.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Add in almond milk ½ cup at a time while ingredients blend
+                                together.<sub>Note: add more almond milk for a thinner shake and
+                                less for a thicker shake. Also, add a handful of ice for extra
+                                thickness.</sub></cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Taste and adjust flavors, adding more bananas or dates for sweetness,
+                            cocoa powder for chocolate, and peanut butter for saltiness.</cmd>
+                        <stepresult>Enjoy your tasty Chocolate Peanut Butter Banana Shake!<fig
+                                id="fig_bcy_svg_5x">
+                                <title>Yummy Vegan Shake</title>
+                                <image
+                                    href="../HEALTHY-Thick-Creamy-Banana-Peanut-Butter-Chocolate-Shake-Just-5-ingredients-and-SO-delicious-vegan-glutenfree-minimalistbaker.jpg"
+                                    scale="25" id="image_ccy_svg_5x"/>
+                            </fig></stepresult>
+                    </substep>
+                </substeps>
             </step>
         </steps>
     </taskbody>
