@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_jf2_11m_5x">
+    <title>Chocolate Peanut Butter Banana Shake</title>
+    <shortdesc>A delicious breakfast shake that will satisfy your hunger and cure your sweet tooth!
+        You'll need a blender and measuring cups/spoons. Yields two servings!!</shortdesc>
+    <taskbody>
+        <context>Ingredients you will need<p>2 large overripe bananas, peeled and sliced</p><p>1 cup
+                milk</p><p>¾ cup ice</p><p>¼ cup creamy peanut butter</p><p>2 tablespoons
+                unsweetened cocoa powder</p><p>½ teaspoon vanilla extract</p></context>
+        <steps>
+            <step>
+                <cmd>Instructions</cmd>
+                <substeps>
+                    <substep>
+                        <cmd>Add all ingredients to the blender.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Blend until well pureed.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Serve immediately!</cmd>
+                        <stepresult>A yummy breakfast shake.<image
+                                href="../../pics/breakfast%20shake.jpg" scale="50"
+                                id="image_mz2_rdm_5x"/></stepresult>
+                    </substep>
+                </substeps>
+            </step>
+        </steps>
+    </taskbody>
+</task>

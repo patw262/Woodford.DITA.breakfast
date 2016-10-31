@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_qbt_wgm_5x">
+    <title>References</title>
+    <shortdesc>Resources used for Mom's Breakfast Guide.</shortdesc>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Blueberry Waffles</cmd>
+                <substeps>
+                    <substep>
+                        <cmd><xref
+                                href="http://www.epicurious.com/recipes/member/views/simple-homemade-waffles-50027026"
+                                format="html"/></cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Breakfast Shake</cmd>
+                <substeps>
+                    <substep>
+                        <cmd><xref
+                                href="http://www.cookingclassy.com/chocolate-peanut-butter-banana-breakfast-shake/"
+                                format="html"/></cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Breakfast Sandwich</cmd>
+                <substeps>
+                    <substep>
+                        <cmd><xref href="http://allrecipes.com/recipe/20682/muffin-morning-makers/"
+                                format="html"/></cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Breakfast Toast</cmd>
+                <substeps>
+                    <substep>
+                        <cmd><xref
+                                href="https://www.buzzfeed.com/tashweenali/energy-boosting-breakfast-toasts?utm_term=.qrWX2ne5M#.ykRg1lRq0"
+                                format="html"/></cmd>
+                    </substep>
+                </substeps>
+            </step>
+        </steps>
+    </taskbody>
+</task>

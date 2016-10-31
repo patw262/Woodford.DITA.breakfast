@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_nsk_11m_5x">
+    <title>Breakfast Sandwich</title>
+    <shortdesc>A quick recipe for breakfast sandwiches you can enjoy on the go or freeze and
+        microwave any time! You'll need a toaster oven, large bowl, skillet, spatula, stove, paper
+        towels and measuring cups/spoons. Yields six breakfast sandwiches!</shortdesc>
+    <taskbody>
+        <context>Ingredients you will need<p>1 pack of English muffins</p><p>6 eggs</p><p>¼ cup
+                chopped green onion</p><p>1 cup shredded cheddar cheese</p><p>2 ½ tablespoons
+                vegetable oil</p><p>6 oz ground breakfast sausage</p></context>
+        <steps>
+            <step>
+                <cmd>Toast the English muffins in a toaster oven.</cmd>
+            </step>
+            <step>
+                <cmd>In a large bowl, scramble the eggs, green onions and cheddar cheese
+                    together.</cmd>
+            </step>
+            <step>
+                <cmd>Heat vegetable oil in a skillet.</cmd>
+            </step>
+            <step>
+                <cmd>Pour the egg mixture into heated skillet.</cmd>
+            </step>
+            <step>
+                <cmd>Cook both sides of the egg equally and place to the side, covered so it stays
+                    warm.</cmd>
+            </step>
+            <step>
+                <cmd>Form the sausage into six small patties.</cmd>
+            </step>
+            <step>
+                <cmd>Fry until browned.</cmd>
+            </step>
+            <step>
+                <cmd>Remove from the skillet.</cmd>
+            </step>
+            <step>
+                <cmd>Drain on paper towels.</cmd>
+            </step>
+            <step>
+                <cmd>Make six breakfast sandwiches by layering a piece of sausage and a piece of
+                    fried egg between the two pieces of the English muffins.</cmd>
+            </step>
+        </steps>
+        <result id="result_dph_mfm_5x">Six delicious homemade breakfast sandwiches!<image
+                href="../../pics/breakfast%20sandwich.jpg" scale="50" id="image_yn5_nfm_5x"
+            /></result>
+    </taskbody>
+</task>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_snw_zzl_5x">
+    <title>Blueberry Waffles</title>
+    <shortdesc>A recipe for Mom's homemade blueberry waffles. You'll need a mixing bowl, whisk,
+        waffle maker and measuring cups/spoons.</shortdesc>
+    <taskbody>
+        <context>Ingredients you will need<p>2 cups flour</p><p>2 tablespoons sugar</p><p>1
+                tablespoon baking powder</p><p>1 teaspoon salt</p><p>1 ¾ cups milk</p><p>1/3 cup
+                vegetable oil</p><p>2 eggs</p><p>Blueberries</p></context>
+        <steps>
+            <step>
+                <cmd>Preparing your waffle batter</cmd>
+                <substeps>
+                    <substep>
+                        <cmd>Combine the flour, sugar, baking powder and salt into your mixing
+                            bowl.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Whisk the milk, vegetable oil and eggs together.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Gradually pour the milk mixture into the dry mixture.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Stir until almost blended.</cmd>
+                        <stepresult>Waffle Batter</stepresult>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Making your blueberry waffles</cmd>
+                <substeps>
+                    <substep>
+                        <cmd>Pour the batter into your waffle maker.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Sprinkle fresh blueberries on top.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Cook according to instructions on your waffle maker, usually 4-6
+                            minutes on medium high or until the waffle maker stops steaming.</cmd>
+                        <stepresult>Yummy Blueberry Waffles, just like Mom makes them!<image
+                                href="../../pics/blueberry%20waffles.jpg" scale="50"
+                                id="image_hkc_4cm_5x"/></stepresult>
+                    </substep>
+                </substeps>
+            </step>
+        </steps>
+    </taskbody>
+</task>

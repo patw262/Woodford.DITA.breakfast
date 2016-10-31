@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_bst_11m_5x">
+    <title>Breakfast Toast</title>
+    <shortdesc>Super simple recipe for breakfast toast that's quick and filling but only has a few
+        ingredients. You'll need a toaster, pan, spatula and stove!</shortdesc>
+    <taskbody>
+        <context>Ingredients you will need<p>Whole wheat bread</p><p>Refried
+                beans</p><p>Salsa</p><p>Cilantro</p><p>Egg</p><p>Vegetable oil</p></context>
+        <steps>
+            <step>
+                <cmd>Toast the bread.</cmd>
+            </step>
+            <step>
+                <cmd>Spread refried beans on your toast.</cmd>
+            </step>
+            <step>
+                <cmd>Spread salsa on top of that.</cmd>
+            </step>
+            <step>
+                <cmd>Fry an egg in your pan.</cmd>
+            </step>
+            <step>
+                <cmd>Place the egg on top of the toast/beans/salsa.</cmd>
+            </step>
+            <step>
+                <cmd>Sprinkle cilantro on top.</cmd>
+                <stepresult>Yummy breakfast toast!<image href="../../pics/breakfast%20toast.jpg"
+                        scale="25" id="image_hjz_5gm_5x"/></stepresult>
+            </step>
+        </steps>
+    </taskbody>
+</task>
