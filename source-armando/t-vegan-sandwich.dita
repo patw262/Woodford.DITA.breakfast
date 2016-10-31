@@ -81,8 +81,7 @@
                 <info>
                     <fig id="fig_qnt_g4l_5x">
                         <title>Yummy Vegan Breakfast Sandwich</title>
-                        <image href="../pics/breakfast-sandwich-vegan-10.jpg" scale="50"
-                            id="image_rnt_g4l_5x"/>
+                        <image href="../../pics/sandwich.jpg" scale="50" id="image_es3_4vl_5x"/>
                     </fig>
                 </info>
             </step>

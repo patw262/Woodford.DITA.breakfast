@@ -12,7 +12,7 @@
                 <info>Delicious vegan blueberry waffles made with whole wheat flour, oatmeal and
                         applesauce.<fig id="fig_zrj_vjl_5x">
                         <title>Blueberry Oatmeal Waffles</title>
-                        <image href="../pics/waffles.jpg" scale="50" id="image_asj_vjl_5x"/>
+                        <image href="../../pics/waffles.jpg" scale="50" id="image_rsn_gvl_5x"/>
                     </fig></info>
             </step>
             <step>
@@ -20,7 +20,7 @@
                 <info>A delicious and filling vegan breakfast shake you can take on the go!<fig
                         id="fig_lkq_xjl_5x">
                         <title>Chocolate Peanut Butter Banana Shake</title>
-                        <image href="../pics/shake.jpg" scale="50" id="image_mkq_xjl_5x"/>
+                        <image href="../../pics/shake.jpg" scale="50" id="image_z3g_hvl_5x"/>
                     </fig></info>
             </step>
         </steps>

@@ -50,10 +50,9 @@
                         <stepresult>Enjoy your tasty Chocolate Peanut Butter Banana Shake!<fig
                                 id="fig_w3v_kkl_5x">
                                 <title>Yummy Vegan Shake</title>
-                                <image
-                                    href="../pics/HEALTHY-Thick-Creamy-Banana-Peanut-Butter-Chocolate-Shake-Just-5-ingredients-and-SO-delicious-vegan-glutenfree-minimalistbaker.jpg"
-                                    scale="25" id="image_x3v_kkl_5x"/>
-                            </fig></stepresult>
+                            </fig><image
+                                href="../../pics/HEALTHY-Thick-Creamy-Banana-Peanut-Butter-Chocolate-Shake-Just-5-ingredients-and-SO-delicious-vegan-glutenfree-minimalistbaker.jpg"
+                                scale="25" id="image_ilx_kvl_5x"/></stepresult>
                     </substep>
                 </substeps>
             </step>
