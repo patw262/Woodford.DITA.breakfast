@@ -1,0 +1,9 @@
+fil = new Array();
+fil["0"]= "Woodford.DITA.breakfast/source-armando/c-savory-vegan-recipes.html@@@Savory Vegan Breakfast Recipes@@@If you love a delicious savory dish for breakfast, look no further than these two recipes!...";
+fil["1"]= "Woodford.DITA.breakfast/source-armando/c-sweet-vegan-recipes.html@@@Sweet Vegan Breakfast Recipes@@@Do you have a sweet tooth but eat vegan? No worries. These two recipes are sure to make you happy!...";
+fil["2"]= "Woodford.DITA.breakfast/source-armando/r-armando.html@@@References@@@Sources used in Armando s Breakfast Guide...";
+fil["3"]= "Woodford.DITA.breakfast/source-armando/t-vegan-sandwich.html@@@Vegan Breakfast Sandwich@@@This quick & easy recipe requires a stove, pan, spatula, measuring spoons, a knife and a toaster...";
+fil["4"]= "Woodford.DITA.breakfast/source-armando/t-vegan-shake.html@@@Chocolate Peanut Butter Banana Shake@@@A perfect healthy vegan breakfast that you can take on the go! You will need a blender to mix together all of the ingredients and measuring cups/spoons...";
+fil["5"]= "Woodford.DITA.breakfast/source-armando/t-vegan-toast.html@@@Toast with Refried Beans and Avocado@@@This recipe takes 5 minutes and is sure to satisfy a hungry vegan looking for breakfast! You ll need a toaster, measuring cups and a knife...";
+fil["6"]= "Woodford.DITA.breakfast/source-armando/t-vegan-waffles.html@@@Blueberry Oatmeal Waffles@@@Makes 6 eight-inch waffles. You will need a mixing bowl, whisk, measuring cups and a waffle iron...";
+fil["7"]= "Woodford.DITA.breakfast/source-armando/ts-armando.html@@@Things to keep in mind when cooking vegan breakfast recipes@@@A short list of troubleshooting topics that relate to Armando s Breakfast Guide...";
